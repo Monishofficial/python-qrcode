@@ -1,8 +1,10 @@
 =============================
 Pure python QR Code generator
 =============================
- By: MONISH N
+```
+By: MONISH N
  REG NO: 212223240097
+```
 Generate QR codes.
 
 A standard install uses pypng_ to generate PNG files and can also render QR
