@@ -1,5 +1,7 @@
 =============================
 Pure python QR Code generator
+By: MONISH N
+REG NO: 212223240097
 =============================
 
 Generate QR codes.
